@@ -1,6 +1,6 @@
 {
   "name": "options-manager",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple options manager for JavaScript libraries. Handles type checking, default values assignation and throws generated usage on errors.",
   "main": "index.js",
   "directories": {
