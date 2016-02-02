@@ -39,5 +39,5 @@ git add CHANGELOG.md
 git commit --amend -m "chore(release): $ALGOLIASEARCH_ZENDESK_VERSION"
 
 # Push
-git push
-git push --tags
+git push origin master
+git push origin master --tags
