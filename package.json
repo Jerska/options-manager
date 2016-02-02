@@ -47,6 +47,7 @@
     "browserify": "^13.0.0",
     "chalk": "^1.1.1",
     "conventional-changelog": "^0.5.3",
+    "coveralls": "^2.11.6",
     "del": "^2.2.0",
     "envify": "^3.4.0",
     "eslint": "^1.10.3",
