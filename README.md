@@ -8,7 +8,7 @@
 [![Dependency Status](https://david-dm.org/Jerskouille/options-manager.svg)](https://david-dm.org/Jerskouille/options-manager)
 [![devDependency Status](https://david-dm.org/Jerskouille/options-manager/dev-status.svg)](https://david-dm.org/Jerskouille/options-manager#info=devDependencies)
 
-[![GitHub license](https://img.shields.io/github/license/Jerskouille/options-manager.svg)](../LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Jerskouille/options-manager.svg)](./LICENSE)
 
 Simple options manager for JavaScript libraries.
 It handles type checking, default values assignation and throws generated usage on errors.
